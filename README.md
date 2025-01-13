@@ -1,5 +1,7 @@
 # GIK MVP
 
+Web version: https://www.gikapp.com/#list2
+
 Ĝet-Ît-Kwik is a student focused marketplace platform that allows students to share second-hand items at reasonable prices i.e Study material, appliances/electronics, fashion items etc, . The platform also includes student-friendly housing options, local ads and announcements. The main objective for the platform is to emphasize affordability, convenience, safety and relevance.
 
 1. User-Friendly Interface
